@@ -1,0 +1,158 @@
+body {
+    background-color: #fdf5e8;
+    width: 100%;
+
+}
+
+main {
+    width: 100%
+}
+
+
+
+#p1 {
+    display: inline-flex;
+    border: 12px solid rgb(56, 101, 60);
+    padding: 10px;
+    width: 100%;
+    background-color: rgb(56, 101, 60);
+    margin-right: 5px;
+
+}
+
+#p11 {
+    width: 80px;
+    margin-right: 800px;
+    height: 80px;
+    z-index: 99999;
+    margin-top: 7px;
+
+
+}
+
+
+#backgrondprincipal {
+    width: 100%;
+    height: 450px;
+
+}
+
+li {
+    display: inline-block;
+    color: rgb(245, 223, 187);
+    width: 100px;
+
+}
+
+a {
+    color: rgb(245, 223, 187);
+}
+
+#letras1{
+    color:palevioletred;
+    text-align: center;
+}
+
+
+.container-section {
+    width: 100%;
+    display: flex;
+}
+
+.container-section-img {
+    width: 50%;
+    display: flex;
+
+}
+
+.section-img {
+    width: 400px;
+    margin:auto;
+}
+
+
+/* contato*/
+
+.main-contato {
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    justify-content: center;
+}
+
+#formula_contato {
+    background-color:rgb(245, 223, 187);
+    justify-content: center;
+}
+
+/*galeria*/
+
+.main-galeria {
+
+    width: 100%;
+}
+
+.container-galeria-img {
+height: 400px;
+margin: auto;
+display: flex;
+flex-wrap: wrap;
+background-size: cover;
+
+}
+
+.img-edi {
+    box-sizing: border-box;
+    margin: 10px;
+    background-color: palevioletred;
+    width: 300px;
+    height: 310px;
+}
+
+.img-galeria {
+    width: 300px;
+    height: 260px;
+    
+}
+
+#galeria-img-descricao {
+    margin: 0%;
+    color:rgb(245, 223, 187);
+    text-align: center;
+}
+
+/*blog*/
+
+.main-blog {
+    display: flex;
+}
+
+.container-blog {
+    height: 800px;
+    width: 60%;
+    margin: auto;
+}
+
+ .img-blog{
+    width: 800px;
+    height:500px;
+    
+ }
+ 
+ #blog-img-descricao{
+    margin: 0%;
+    color:palevioletred;
+    text-align: center;
+ }
+
+ footer {
+    
+  text-align: center;
+  padding: 3px;
+  background-color: palevioletred;
+  color:rgb(245, 223, 187);
+  
+  }
+
+  /*aluna:Ana Beatriz Cavalcante Amorim
+  matricula: 2010024024*/
